@@ -1,0 +1,15 @@
+phidata
+python-docx
+pandas
+pypdf
+langchain
+langchain-community
+openai
+python-dotenv
+fastapi
+uvicorn 
+python-multipart
+tiktoken
+faiss-cpu
+openpyxl
+selenium
